@@ -3,8 +3,6 @@
 
 ![GitHub Snake](https://raw.githubusercontent.com/devoraa1/devoraa1/output/github-snake.svg)
 
-## Hi there 👋
-
 <!--
 **devoraa1/devoraa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
