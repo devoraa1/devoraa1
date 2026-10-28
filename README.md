@@ -1,3 +1,8 @@
+
+## 🐍 My Contributions
+
+![GitHub Snake](https://raw.githubusercontent.com/devora-12/devora-12/output/github-snake.svg)
+
 ## Hi there 👋
 
 <!--
